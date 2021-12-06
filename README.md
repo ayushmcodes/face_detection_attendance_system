@@ -14,3 +14,9 @@ Step4.Compare these measurements of the image to be identified with the measurme
 Step5.If matched then attendance is marked in a CSV file
 
 
+
+![Screenshot (1)](https://user-images.githubusercontent.com/58221605/144911867-83edf618-89bc-4304-982b-13166efac895.png)
+
+
+
+![Screenshot (2)](https://user-images.githubusercontent.com/58221605/144911880-2d2e1ca0-a339-4d88-a33d-e459b45df1e8.png)
